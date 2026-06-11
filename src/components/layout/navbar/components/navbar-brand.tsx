@@ -16,7 +16,6 @@ export default function NavbarBrand() {
         size="xl"
         variant="brand"
         priority
-        autoSize
         className="h-8"
       />
 
