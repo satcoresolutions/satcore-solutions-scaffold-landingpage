@@ -1,6 +1,6 @@
 import Container from "@/components/ui/container";
 
-import NavbarBrand from "./components/navbar-brand";
+import NavbarBrand from "../../../../../../../templates/basic-leads/scaffold/src/components/layout/navbar/components/navbar-brand";
 import NavbarNavigation from "./components/navbar-navigation";
 import NavbarActions from "./components/navbar-actions";
 import ThemeModeToggle from "./components/theme-mode-toggle";

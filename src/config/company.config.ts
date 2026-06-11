@@ -3,7 +3,7 @@ import type { CompanyConfig } from "@/types/site.types";
 export const companyConfig: CompanyConfig = {
   name:         "SatCore Solutions",
   email:        "satcoresolutions@gmail.com",
-  whatsapp:     "",
+  whatsapp:     "3022016072",
   website:      "https://satcore.solutions",
   organization: "",
   address: {
