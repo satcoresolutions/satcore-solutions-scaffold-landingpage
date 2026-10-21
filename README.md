@@ -1,5 +1,3 @@
-# SatCore Solutions
-
 <p align="center">
   <img src="./public/logo.png" alt="SatCore Solutions Logo" width="180" />
 </p>
